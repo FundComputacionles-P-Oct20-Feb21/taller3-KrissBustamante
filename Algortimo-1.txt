@@ -1,0 +1,7 @@
+Resolucion de algoritmo 1
+1.Inicio
+2.Presentar la valor de la base
+3.Presentar el valor de la altura 
+4.Calcular el (base*altura)/2
+5.Presentar el area
+6.Fin

@@ -1,1 +1,8 @@
-Resolucion de algoritmo 1
+Resolucion de algoritmo 2
+1.Inicio
+2.Se presentan las diferentes variables
+3.Se presentan los gastos diarios de los niños, ropa, alimentacion,escuela
+4.Donde gastos diarios representa=x, ropa representa=y,alimentacion=z, escuela=s
+5.Se genera la formula 3(x+y+z+s)
+6.Se presenta el resultado
+7.fin 

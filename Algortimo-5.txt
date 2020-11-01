@@ -1,1 +1,7 @@
-Resolucion de algoritmo 1
+Resolucion de algoritmo 5
+1.Inicio
+2.Presentar los valores de las partes de la computadora 
+3.Donde Cpu=x, Teclado=y, Pantalla=z, Raton=s
+4.Se calcula (x+y+z+s)=valor total de la computadora 
+5.Se presenta el valor total de la computadora 
+6.Fin.

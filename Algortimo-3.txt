@@ -1,1 +1,6 @@
-Resolucion de algoritmo 1
+Resolucion de algoritmo 3
+1.Inicio
+2.se genera un algoritmo dadas las espicificaciones
+3.X sera un valor dado,donde (2>x<6)
+4.se presenta una tabla de multiplicar respecto al numero (2>x<6)
+6.Fin

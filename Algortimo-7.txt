@@ -1,1 +1,9 @@
-Resolucion de algoritmo 1
+Resolucion de algoritmo 7
+1.Inicio
+2.Se presenta el valor de costo por kilovatio/hora y el número de kilovatios consumidos en el mes
+3.se da que (costo por kilovatio/hora)*1dia=x
+4.se calcula x*30 dias=valor de la plantilla 
+5.se calcula el valor de la plantilla si el usuario es mayor a 65 años
+6.se da que (valor de la plantilla-(x*30 dias)*0.1)=valor de la plantilla si es mayor a 65 años
+7.Se Presentan las formulas y resultados
+8.Fin

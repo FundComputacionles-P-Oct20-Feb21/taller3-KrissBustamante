@@ -1,0 +1,3 @@
+Resolucion2
+x(n)[{i,u},{2-6}]
+

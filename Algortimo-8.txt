@@ -1,1 +1,10 @@
-Resolucion de algoritmo 1
+Resolucion de algoritmo 8
+1.Inicio 
+2.mostrar valores de los diferentes servicios digitales 
+3.se muestran los dos tipos de forfmulas 
+4.Se calcula(netflix+youtubepremium+dropbox+spotify)si la persona es mayor a 30 años
+5.Se calcula(netflix+youtubepremium+dropbox+spotify)*0.2 si la persona es menos a 30 años
+6.Se presentan las formulas 
+7.Se calcula el valor total a pagar
+8.Se presenta el valor total
+9.Fin

@@ -1,1 +1,7 @@
-Resolucion de algoritmo 1
+Resolucion de algoritmo 6
+1.Inicio
+2.Se presenta el valor del prestamo
+3.Se presenta el interes mensual
+6.se suman las dos variables+ el iva por cada mes
+7.Se presenta el valor final de todo el año
+8.Fin

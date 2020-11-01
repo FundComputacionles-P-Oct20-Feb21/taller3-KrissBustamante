@@ -1,1 +1,7 @@
-Resolucion de algoritmo 1
+Resolucion de algoritmo 4
+1.Incio
+2.Presentar valores de la plantilla de luz por un mes 
+3.Se da que (costo x minutos)* 1dia=X
+4.Entocnes se calcula X*30dias= Valor de la plantilla  
+5.Se presenta el valor de la plantilla 
+6.Fin 
